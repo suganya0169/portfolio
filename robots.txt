@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://your-portfolio-url.example/sitemap.xml
+Sitemap: https://suganya0169.github.io/portfolio/sitemap.xml
